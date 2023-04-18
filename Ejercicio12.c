@@ -9,8 +9,8 @@ int main (){
     scanf("%d",&n);
     //Conseguir el valor de los digitos
     digito1=n/100;
-    digito2=(n/10)%10;
-    digito3=n%10;
-    
+    digito2=(n/100)/10;
+    digito3=(n/100)%10;
+
     return 0;
 }
