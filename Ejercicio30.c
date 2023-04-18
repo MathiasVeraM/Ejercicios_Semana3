@@ -4,5 +4,8 @@
 int main (){
     //Definir las variables a usar
     int n=0, i;
+    //Pedir datos al usuario
+    printf("Por favor ingrese un numero entero del que quiera saber sus multiplos: ");
+    scanf("%d",n);
     
 }
