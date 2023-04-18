@@ -2,5 +2,7 @@
 //añadir la biblioteca stdio.h para mostrar y leer datos
 #include <stdio.h>
 int main (){
+    //Definir las variables a usar
+    int n=0, i;
     
 }
