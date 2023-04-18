@@ -6,7 +6,7 @@ int main (){
     int n=0, i;
     //Pedir datos al usuario
     printf("Por favor ingrese un numero entero del que quiera saber sus multiplos: ");
-    scanf("%d",n);
+    scanf("%d",&n);
     //Hacer la repeticion para aumentar el contador
     for(i=1;i<=n;i++){
         //Ver si es multiplo por medio de mod, si el mod del numero con el contador es cero, entonces es multiplo
