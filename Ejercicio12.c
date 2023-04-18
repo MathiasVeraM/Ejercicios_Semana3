@@ -22,4 +22,5 @@ int main (){
         printf("El numero ingresado no contiene 1");
     }
     return 0;
+    //ejercicio comprobado el funcionamiento
 }
