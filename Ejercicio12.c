@@ -11,6 +11,19 @@ int main (){
     digito1=n/100;
     digito2=(n%100)/10;
     digito3=(n%100)%10;
-
+    //Comprobar si alguno de esos digitos es 1 e imprimir esa respuesta
+    if(digito1==1){
+        printf("El numero ingresado contiene 1");
+        break;
+    } else if(digito2==1){
+        printf("El numero ingresado contiene 1");
+        break;
+    } else if (digito3==1){
+        printf("El numero ingresado contiene 1");
+        break;
+    } else {
+        printf("El numero ingresado no contiene 1");
+        break;
+    }
     return 0;
 }
