@@ -12,7 +12,7 @@ int main (){
         //Ver si es multiplo por medio de mod, si el mod del numero con el contador es cero, entonces es multiplo
         if(n%i==0){
             //Imprimir los multiplos
-            printf("%d, ",i);
+            printf("%d ",i);
         }
     }
     return 0;
