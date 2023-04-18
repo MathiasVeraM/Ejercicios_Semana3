@@ -9,6 +9,9 @@ int main (){
     scanf("%d",n);
     //Hacer la repeticion para aumentar el contador
     for(i=1;i<=n;i++){
-        
+        //Ver si es multiplo por medio de mod, si el mod del numero con el contador es cero, entonces es multiplo
+        if(n%i==0){
+            
+        }
     }
 }
