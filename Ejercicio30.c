@@ -7,5 +7,8 @@ int main (){
     //Pedir datos al usuario
     printf("Por favor ingrese un numero entero del que quiera saber sus multiplos: ");
     scanf("%d",n);
-    
+    //Hacer la repeticion para aumentar el contador
+    for(i=1;i<=n;i++){
+        
+    }
 }
