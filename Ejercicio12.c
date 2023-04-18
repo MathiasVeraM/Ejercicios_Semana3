@@ -4,5 +4,9 @@
 int main (){
     //Definir las variables
     int n=0, digito1=0, digito2=0, digito3=0;
+    //Pedir al usuario el numero entero de 3 digitos
+    printf("Por favor ingrese un numero entero de 3 digitos: ");
+    scanf("%d",&n);
+    
     return 0;
 }
