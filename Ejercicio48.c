@@ -23,4 +23,5 @@ int main (){
         }
         k++; //Aumenta k para que no sea bucle infinito, es solo un contador
     }
+    //Se comprobo el correcto funcionamiento del programa crea las series requeridas
 }
