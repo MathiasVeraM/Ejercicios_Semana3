@@ -6,6 +6,6 @@
 #include <stdio.h>
 int main (){
     //Definir las variables
-    int i=0, j=0, acumulador=0;
+    int i=0, j=0, k=0, c=0, acumulador=0;
     
 }
