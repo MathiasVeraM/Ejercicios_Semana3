@@ -7,6 +7,7 @@ int main (){
     //Escribir la estructura de la repeticion
     while (num!=0) {
         digito = num % 10; //La variable digito sera el resultado del mod del numero para 10
+        suma = suma + digito; //Acumulamos los digitos que obtengamos
         
     }
 }
