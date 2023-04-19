@@ -3,3 +3,9 @@
 Utilizando el concepto de ciclo, generar la serie de Fibonacci hasta llegar o sobrepasar el número 10000.*/
 //Utilizar la biblioteca stdio.h
 #include <stdio.h>
+int main (){
+    //Definir las variables a usar
+    int num1=0, num2=0, n=0;
+    
+
+}
