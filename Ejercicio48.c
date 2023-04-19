@@ -9,6 +9,9 @@ int main (){
     int i=0, j=0, k=0, c=0, acumulador=0;
     //Hacer la primera repeticion
     while(k<=9){
-        
+        //Hacer la segunda repeticion
+        for(c=0;c<1;c++){
+            
+        }
     }
 }
