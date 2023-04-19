@@ -18,7 +18,7 @@ int main (){
         i++;
         acumulador++;
         //Veo si debo aumentar la segunda columna, si si, se aumenta 1
-        if(acumulador%2==1){
+        if(acumulador%2==0){
             j++;
         }
         k++; //Aumenta k para que no sea bucle infinito, es solo un contador
