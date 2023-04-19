@@ -17,6 +17,9 @@ int main (){
         //Aumento i, que es de la primera columna y el acumulador, que me sirve para ver cuando aumentar la segunda columna
         i++;
         acumulador++;
-        
+        //Veo si debo aumentar la segunda columna, si si, se aumenta 1
+        if(acumulador%2==1){
+            j++;
+        }
     }
 }
