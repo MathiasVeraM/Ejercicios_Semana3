@@ -11,7 +11,8 @@ int main (){
     while(k<=9){
         //Hacer la segunda repeticion
         for(c=0;c<1;c++){
-            
+            //Imprimimos las filas, usando las variables j e i y una tabulacion y un salto de linea
+            printf("%d\t%d\n",i ,j);
         }
     }
 }
