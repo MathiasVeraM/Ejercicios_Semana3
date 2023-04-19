@@ -13,5 +13,8 @@ int main (){
         n = num1+num2; //n es la suma de los dos numeros anteriores
         //Imprimir el tercer numero
         printf(" %d",n);
+        num1=num2; //cambiar el valor del primer numero por el del segundo
+        num2=n; //cambiar el valor del segundo numero por el resultado de la suma, asi va aumentando la secuencia y se suman los 2 anteriores
     }
+    return 0;
 }
