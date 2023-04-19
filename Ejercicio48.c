@@ -21,5 +21,6 @@ int main (){
         if(acumulador%2==1){
             j++;
         }
+        k++; //Aumenta k para que no sea bucle infinito, es solo un contador
     }
 }
