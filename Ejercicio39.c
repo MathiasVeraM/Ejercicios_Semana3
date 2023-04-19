@@ -8,6 +8,7 @@ int main (){
     int num1=0, num2=0, n=0;
     //Escribir la estructura de la repeticion a usar
     while (n<=10000){
+        n = num1+num2; //n es la suma de los dos numeros anteriores
         
     }
 }
