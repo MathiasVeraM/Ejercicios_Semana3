@@ -4,3 +4,8 @@
 */
 //Incluir la biblioteca stdio.h
 #include <stdio.h>
+int main (){
+    //Definir las variables
+    int i=0, j=0, acumulador=0;
+    
+}
