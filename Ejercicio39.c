@@ -6,6 +6,8 @@ Utilizando el concepto de ciclo, generar la serie de Fibonacci hasta llegar o so
 int main (){
     //Definir las variables a usar
     int num1=0, num2=0, n=0;
-    
-
+    //Escribir la estructura de la repeticion a usar
+    while (n<=10000){
+        
+    }
 }
