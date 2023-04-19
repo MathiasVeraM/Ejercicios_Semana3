@@ -16,4 +16,5 @@ int main (){
     //Imprimir el resultado de la suma
     printf("La suma de los digitos del numero es: %d",suma);
     return 0;
+    //Se comprobo el correcto funcionamiento del programa, suma los digitos
 }
