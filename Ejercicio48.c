@@ -14,5 +14,9 @@ int main (){
             //Imprimimos las filas, usando las variables j e i y una tabulacion y un salto de linea
             printf("%d\t%d\n",i ,j);
         }
+        //Aumento i, que es de la primera columna y el acumulador, que me sirve para ver cuando aumentar la segunda columna
+        i++;
+        acumulador++;
+        
     }
 }
