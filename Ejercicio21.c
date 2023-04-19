@@ -9,6 +9,8 @@ int main (){
         digito = num % 10; //La variable digito sera el resultado del mod del numero para 10
         suma = suma + digito; //Acumulamos los digitos que obtengamos
         num = num/10; //Reducimos el numero dado, para que no sea bucle infinito
-
     }
+    //Imprimir el resultado de la suma
+    printf("La suma de los digitos del numero es: %d",suma);
+    return 0;
 }
